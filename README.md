@@ -3,7 +3,7 @@
 In this assignment, I created and manipulated Pandas DataFrames to analyze school and standardized test data.
 
 Given Background:
-Help a school board and mayor make strategic decisions regarding future school budgets and priorities by analyzing the district-wide standardized test results. I was given math and reading scores, as well as various information on the schools they attend. My task was to aggregate the data to showcase obvious trends in school performance.
+My objective was to help a school board and mayor make strategic decisions regarding future school budgets and priorities by analyzing the district-wide standardized test results. I was given math and reading scores, as well as various information on the schools they attend. My task was to aggregate the data to showcase obvious trends in school performance.
 
 
 Breakdown:
